@@ -1,37 +1,59 @@
-## Hi there 👋
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Welcome!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<!-- INTRO -->
+<h3 align="center">
+  Hi 👋, I'm Sindoo
+</h3>
 
-###
+<p align="center">
+  <em>Python • AI Enthusiast • Backend </em>
+</p>
 
-<p align="left">My name is Sindoo 🫧 and I'm from  Sreyas Institute of Engg and Tech </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+things+that+scale;Learning+ML+%26+Deep+Learning;Curious+Engineer" />
+</p>
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 👨‍💻 About Me
 
-###
+- Backend & AI-focused engineer
+- Building REST APIs and scalable services
+- Working with ML, DL, LLMs & RAG systems
+- Curious about system design and real-world impact
+- Fitness-driven & disciplined
 
-<p align="left">✨python enthusiast <br>📚 I'm currently learning ML & DEEPLEARNING<br>📚 Sometimes a bookworm<br>🏋️‍♀️ Fitness-Driven</p>
+---
 
-###
+## 🧰 Tech Stack
 
-<h2 align="left">I code with</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=go" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <img src="https://skillicons.dev/icons?i=fiber" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=redis" />
+</p>
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+  <img src="https://skillicons.dev/icons?i=numpy" />
+  <img src="https://skillicons.dev/icons?i=pandas" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+</p>
 
-<div align="left">
-  <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-
-</div>
-
-###
-
-
-
-
+<p align="center">
+  <em>Backend • AI/ML • Systems</em>
+</p>
